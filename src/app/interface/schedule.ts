@@ -7,5 +7,4 @@ export interface Schedule{
         AwayScore   :number,
         RefName     :string,
         notes?      :string
-    
-}
+    }
